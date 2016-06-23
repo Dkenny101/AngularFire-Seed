@@ -1,3 +1,3 @@
 # AngularFire-Seed
 
-Basic setup for AngularFir Projects.
+Basic setup for AngularFire Projects.
